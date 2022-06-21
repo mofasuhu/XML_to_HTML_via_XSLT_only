@@ -1,0 +1,26 @@
+<students>
+	<student id="210"
+       		name="Ahmed">
+		<dateOfBirth>30/8/1995</dateOfBirth>
+	</student>
+	<student id="173"
+       		name="Sara">
+		<dateOfBirth>23/3/1996</dateOfBirth>
+	</student>
+	<student id="115"
+       		name="Mona">
+		<dateOfBirth>07/11/1998</dateOfBirth>
+	</student>
+	<student id="202"
+       		name="Mohamed">
+		<dateOfBirth>11/01/1990</dateOfBirth>
+	</student>
+	<student id="208"
+       		name="Khaled">
+		<dateOfBirth>06/04/1991</dateOfBirth>
+	</student>
+	<student id="186"
+       		name="Maha">
+		<dateOfBirth>30/9/1995</dateOfBirth>
+	</student>
+</students>
